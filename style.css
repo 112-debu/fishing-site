@@ -1,0 +1,17 @@
+body{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(https://steamuserimages-a.akamaihd.net/ugc/1829049189220451371/FA81DACA84ACCE364D1782CC818E430A1D6CC8C4/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
+    background-position:center;
+    background-size: cover;
+}
+
+form{
+    background-color: rgb(112, 208, 221);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
